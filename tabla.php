@@ -10,7 +10,7 @@
 <body>
 
 
-       <section id= "titulo"> <h1>Tabla Periodica de los Helementos </h1></section>
+       <section id= ""> <h1>Tabla Periodica de los Helementos </h1></section>
      
 <?php
 
